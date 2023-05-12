@@ -1,0 +1,24 @@
+lege:
+    type: Web
+    title: LEGE nr. 206 din 27 mai 2004
+    url: https://legislatie.just.ro/Public/DetaliiDocument/52457
+plagiat-dexonline:
+    type: Web
+    title: Plagiat
+    url: https://dexonline.ro/definitie/plagiat/definitii       
+gpt4:
+    type: Web
+    title: gpt-4
+    url: https://openai.com/research/gpt-4
+copilot:
+    type: Web
+    title: GitHub Copilot litigation
+    url: https://githubcopilotlitigation.com
+google:
+    type: Web
+    title: Google I/O 2023
+    url: https://io.google/2023/
+usa:
+    type: Web
+    title: FACT SHEET: Biden-⁠Harris Administration Announces New Actions to Promote Responsible AI Innovation that Protects Americans’ Rights and Safety
+    url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/           
