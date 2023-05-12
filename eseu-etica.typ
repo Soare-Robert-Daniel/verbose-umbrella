@@ -9,12 +9,12 @@
 #set par(first-line-indent: 1em, justify: true)
 
 #align(center)[
-    #text(20pt)[Plagiatul în industria IT] \
-    #v(0.1cm) \
+    #text(16pt)[Schimbările aduse de industria IT în redefinirea acțiunilor de plagiat] \
+    #v(0cm) \
     #text(14pt)[Soare Robert Daniel]
 ]
 
-#v(1cm)
+#v(0.4cm)
 
 == Definiția plagiatului
 
@@ -34,6 +34,10 @@ Multe proiecte au fost construite în baza unor proiecte _open source_ și au fo
 
 De ce oamenii din industrie continuă să publice proiecte _open source_ dacă există riscul ca acestea să fie copiate? Răspunsul este simplu: beneficiile depășesc pagubele. Aceste tipuri de proiecte sunt mai apreciate și bine venite decât cele care sunt cu sursă închisă. Astfel, _start-up_-urile și companiile mari pot beneficia de pe urma acestor proiecte, iar dezvoltatorii care contribuie la acestea pot fi recunoscuți de comunitate și pot fi contactați de companii pentru a lucra la proiecte comerciale.
 
+Așadar, pentru această industrie, aceste acțiuni de copiere a codului sursă, de plagiat, de încălcare a licențelor, de furt intelectual sunt mai degrabă oportunități decât probleme. Dar aceste acțiuni nu sunt binevenite în alte industrii precum industria medicală, industria militară, industria auto etc. În aceste industrii, aceste acțiuni sunt considerate infracțiuni și sunt pedepsite de lege.
+
+Această lipsă griji în privința acestor probleme și posibilitea colectării de date (voite sau nevoite) în scopuri de cercetare a dus la nașterea marii revoluții care a schimbat lumea: _Large Language Models_.
+
 == Era _Large Language Models_
 
 Odată cu explozia de tehnologiilor bazate pe _Large Language Models_ (LLM). Aceste tehnologii sunt bazate pe modele de învățare automată care au fost antrenate pe un set de date foarte mare. Aceste modele pot fi folosite pentru a genera texte, cod, imagini, sunete etc. Un exemplu de astfel de tehnologie este _GPT-4_ #cite("gpt4"). O problemă care era de multe ori ignorată a intrat în centrul atenției: furtul de cod.
@@ -44,9 +48,7 @@ Dar tehnologii precum GPT-4 nu au influențat doar industria IT, aceastea încep
 
 Fară nicio exagerare, intrăm într-o nouă eră în care sancțiunile pentru acțiuni precum furtul intelectual, plagiatul, încălcarea licențelor trebuiesc revizuite și actualizate. Această tehnologie este prea valoroasă pentru a fi ignorată, dar în același timp este prea periculoasă pentru a fi lăsată să fie folosită în mod abuziv.
 
-Guvernul Statelor Unite ale Americii a convocat marii reprezentanți ale acest tehnologii la o discuție de stabilirea a unor noi strategii prin care SUA să poată beneficia de pe urma acestei tehnologii, dar în același timp să poată proteja drepturile de autor și drepturile conexe acestora #cite("usa").
-
-
+Guvernul Statelor Unite ale Americii a convocat marii reprezentanți ale acestor tehnologii la o discuție de stabilire a unor noi strategii prin care SUA să poată beneficia de pe urma acestei tehnologii, dar în același timp să poată proteja drepturile de autor și drepturile conexe acestora #cite("usa"). De asemenea, Uniunea Europeană lucrează la un proiectul de lege The Artificial Intelligence Act care va reglementa utilizarea acestor tehnologii #cite("eu").
 
 #pagebreak()
 
