@@ -26,3 +26,25 @@ eu:
     type: Web
     title: The Artificial Intelligence Act
     url: https://artificialintelligenceact.eu
+gdpr:
+    type: Web
+    title: General Data Protection Regulation
+    url: https://gdpr-info.eu
+hackers:
+    type: Article
+    title: "Why hackers do what they do: Understanding motivation and effort in free/open source software projects."
+    author: ["Lakhani", "Karim R.","Robert G. Wolf"]
+    doi: "10.2139/ssrn.443040"
+    date: 2003-09
+    publisher: Perspectives on Free and Open Source Software
+open-source:
+    type: Web
+    title: The Consequences of Violating Open Source Licenses
+    author: ["Jaideep Reddy"]            
+    date: 2015-10-8
+    url: https://btlj.org/2015/11/consequences-violating-open-source-licenses/
+yc:
+    type: Web
+    title: Why the Best Companies and Developers Give Away Almost Everything They Do
+    author: ["Yevgeniy (Jim) Brikman"]
+    url: https://www.ycombinator.com/library/56-why-the-best-companies-and-developers-give-away-almost-everything-they-do         
