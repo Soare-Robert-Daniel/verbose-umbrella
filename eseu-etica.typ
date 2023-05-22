@@ -8,7 +8,13 @@
   size: 12pt
 )
 
+#text(12pt)[
+Student: Soare Robert Daniel \
+Facultatea: Automatică și Calculatoare - UPB \
+Master: Grafică, Multimedia și Realitate Virtuală (GMRV), Anul 2 \
+]
 
+#v(2.5cm)
 
 #align(center)[
     #text(18pt)[Plagiatul în timpul erei LLM] \
@@ -16,12 +22,6 @@
 ]
 
 #v(0.4cm)
-
-#text(12pt)[
-Student: Soare Robert Daniel \
-Facultatea: Automatică și Calculatoare - UPB \
-Master: Grafică, Multimedia și Realitate Virtuală (GMRV), Anul 2 \
-]
 
 #set par(first-line-indent: 1em, justify: true)
 #show par: set block(spacing: 0.65em)
