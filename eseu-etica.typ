@@ -4,7 +4,8 @@
 
 #set text(
   font: "Times New Roman",
-  spacing: 150%
+  spacing: 150%,
+  size: 12pt
 )
 
 
@@ -29,7 +30,7 @@ Master: Grafică, Multimedia și Realitate Virtuală (GMRV), Anul 2 \
 
 #v(0.1cm)
 
-Conform Dicționarului Explicativ Român, o definitie pentru acțiunea de *plagiat* este: „A-și însuși, a copia total sau parțial ideile, operele etc. cuiva, prezentându-le drept creații personale; a comite un furt literar, artistic sau științific” #cite("plagiat-dexonline"). Prin legea nr. 206 din 27 mai 2004, plagiatul este definit ca fiind „preluarea integrală sau parțială, cu intenție sau fără intenție, a unei opere sau a unei părți dintr-o operă, fără respectarea drepturilor de autor sau a drepturilor conexe acestora, precum și preluarea integrală sau parțială, cu intenție sau fără intenție, a unei opere sau a unei părți dintr-o operă, cu respectarea drepturilor de autor sau a drepturilor conexe acestora, dar fără respectarea condițiilor impuse de legea care reglementează drepturile de autor și drepturile conexe acestora” #cite("lege").
+Conform Dicționarului Explicativ Român, o definiție pentru acțiunea de *plagiat* este: „A-și însuși, a copia total sau parțial ideile, operele etc. cuiva, prezentându-le drept creații personale; a comite un furt literar, artistic sau științific” #cite("plagiat-dexonline"). Prin legea nr. 206 din 27 mai 2004, plagiatul este definit ca fiind „preluarea integrală sau parțială, cu intenție sau fără intenție, a unei opere sau a unei părți dintr-o operă, fără respectarea drepturilor de autor sau a drepturilor conexe acestora, precum și preluarea integrală sau parțială, cu intenție sau fără intenție, a unei opere sau a unei părți dintr-o operă, cu respectarea drepturilor de autor sau a drepturilor conexe acestora, dar fără respectarea condițiilor impuse de legea care reglementează drepturile de autor și drepturile conexe acestora” #cite("lege").
 
 == Industria IT
 
@@ -37,9 +38,9 @@ Conform Dicționarului Explicativ Român, o definitie pentru acțiunea de *plagi
 
 Industria IT (_Information Technology_) este o industrie care se ocupă cu dezvoltarea, producția și comercializarea de produse și servicii bazate pe tehnologia informației. Aceasta este una dintre cele mai dinamice industrii din lume care într-o continuă creștere accelerată. În zilele noastre, aproape orice afacere are o prezență _online_, fie prin intermediul unui website propriu sau terț ( platforme sociale precum _Facebook, Twitter, TikTok_).
 
-Această creștere rapidă a condus și la dezvoltarea multor domenii precum _web development, mobile development, data science, machine learning, artificial intelligence_ etc. Prin prisma acesti creșteri accelerate, a aparut și comunitatea _open source_. Comunitate care incurajează dezvoltarea de proiecte _open source_ și contribuția la acestea. Aceste proiecte sunt disponibile public și oricine poate contribui la dezvoltarea lor.
+Această creștere rapidă a condus și la dezvoltarea multor domenii precum _web development, mobile development, data science, machine learning, artificial intelligence_ etc. Prin prisma acestei creșteri accelerate, a apărut și comunitatea _open source_. Comunitate care încurajează dezvoltarea de proiecte _open source_ și contribuția la acestea. Aceste proiecte sunt disponibile public și oricine poate contribui la dezvoltarea lor.
 
-Multe proiecte au fost construite în baza unor proiecte _open source_ și au fost lansate ca produse comerciale. Un exemplu de astfel de proiect este _Android_, un sistem de operare pentru dispozitive mobile, care a fost construit pe baza proiectului _open source_ _Linux_. Pe cât de frumoasă este mișcarea _open source_, aceasta a evidențiat și diferite probleme precum încălcarea licențelor, furtul de cod, copierea de cod, plagiatul etc #cite("open-source").
+Multe programe software au fost construite în baza unor proiecte _open source_ și au fost lansate ca produse comerciale. Un exemplu de astfel de proiect este _Android_, un sistem de operare pentru dispozitive mobile, care a fost construit pe baza proiectului _open source_ _Linux_. Pe cât de frumoasă este mișcarea _open source_, aceasta a evidențiat și diferite probleme precum încălcarea licențelor, furtul de cod, plagiatul, etc #cite("open-source").
 
 De ce oamenii din industrie continuă să publice proiecte _open source_ dacă există riscul ca acestea să fie copiate? Răspunsul este simplu: beneficiile depășesc pagubele. Aceste tipuri de proiecte sunt mai apreciate și bine venite decât cele care sunt cu sursă închisă. Astfel, _start-up_-urile și companiile mari pot beneficia de pe urma acestor proiecte, iar dezvoltatorii care contribuie la acestea pot fi recunoscuți de comunitate și pot fi contactați de companii pentru a lucra la proiecte comerciale #cite("hackers").
 
@@ -65,7 +66,7 @@ _Large Language Models_ schimbă complet modul cum intereacționăm cu tehnologi
 
 Soluția la această problemă este adaptarea legilor și a sancțiunilor pentru a putea proteja drepturile de autor și drepturile conexe acestora, dar în același timp să se poată beneficia de pe urma acestei tehnologii.
 
-Între timp, cursa pentru perfecționarea acestor tehnologii continuă, iar guvernele și companiile încearcă în mod activ să profite de pe urma lor. Tot în timp vom vedea cum creatorii de conținut vor fi recompensați pentru munca lor, muncă care este acum mai ușor de copiat.
+Între timp, cursa pentru perfecționarea acestor tehnologii continuă, iar guvernele și companiile încearcă în mod activ să profite de pe urma lor. Tot în timp vom vedea cum creatorii de conținut vor fi recompensați pentru munca lor, muncă care este acum mai ușor de copiat. Dar s-ar putea ca munca lor să devină mai valoarasă decât este acum. Modelele performante necesită date de calitate, iar dacă acestea sunt mai greu de obținut giganții din domeniul IT vor trebui să plătească mai mult pentru a putea beneficia de pe urma lor.
 
 #pagebreak()
 
